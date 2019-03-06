@@ -1,0 +1,10 @@
+C:\Trabalho\Ffonseca\gitHub\DapperMultiplosCenarios\DapperMultiplosCenarios\bin\Debug\DapperMultiplosCenarios.exe.config
+C:\Trabalho\Ffonseca\gitHub\DapperMultiplosCenarios\DapperMultiplosCenarios\bin\Debug\DapperMultiplosCenarios.exe
+C:\Trabalho\Ffonseca\gitHub\DapperMultiplosCenarios\DapperMultiplosCenarios\bin\Debug\DapperMultiplosCenarios.pdb
+C:\Trabalho\Ffonseca\gitHub\DapperMultiplosCenarios\DapperMultiplosCenarios\bin\Debug\Dapper.dll
+C:\Trabalho\Ffonseca\gitHub\DapperMultiplosCenarios\DapperMultiplosCenarios\bin\Debug\Dapper.xml
+C:\Trabalho\Ffonseca\gitHub\DapperMultiplosCenarios\DapperMultiplosCenarios\obj\Debug\DapperMultiplosCenarios.csprojAssemblyReference.cache
+C:\Trabalho\Ffonseca\gitHub\DapperMultiplosCenarios\DapperMultiplosCenarios\obj\Debug\DapperMultiplosCenarios.csproj.CoreCompileInputs.cache
+C:\Trabalho\Ffonseca\gitHub\DapperMultiplosCenarios\DapperMultiplosCenarios\obj\Debug\DapperMultiplosCenarios.csproj.CopyComplete
+C:\Trabalho\Ffonseca\gitHub\DapperMultiplosCenarios\DapperMultiplosCenarios\obj\Debug\DapperMultiplosCenarios.exe
+C:\Trabalho\Ffonseca\gitHub\DapperMultiplosCenarios\DapperMultiplosCenarios\obj\Debug\DapperMultiplosCenarios.pdb
